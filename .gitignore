@@ -4,3 +4,6 @@ session1/sensor_project
 **/Debug/
 **/Release/
 **/.metadata/
+
+# Generated STM32CubeIDE language settings
+**/.settings/language.settings.xml
