@@ -1,1 +1,6 @@
 session1/sensor_project
+
+# STM32 build outputs
+**/Debug/
+**/Release/
+**/.metadata/
